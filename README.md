@@ -17,20 +17,21 @@
 
 ###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" style="height:30px;" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" style="height:30px;" />
 </p>
+
 
 
 ###
