@@ -22,10 +22,8 @@
 <h2 align="left">💻 Tech Stack :</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black" style="height:30px;" />
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" style="height:30px;" />
   <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" style="height:30px;" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" style="height:30px;" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" style="height:30px;" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" style="height:30px;" />
   <img src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white" style="height:30px;" />
