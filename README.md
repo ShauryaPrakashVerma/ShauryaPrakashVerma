@@ -1,21 +1,24 @@
-<h2 align="left">Hello World👋! My name is Shaurya and I'm a Computer Science Engineering student from India.</h2>
+<img width="1138" height="424" alt="image" src="https://github.com/user-attachments/assets/9cedf04e-2ebe-45ef-bacb-33ae2335f083" />
 
-<h5 align="left">• Currently learning Game Development<br>• Studying Computer Science Engineering in AI & ML</h5>
+
+<h2 align="left">Hello World👋! My name is Shaurya.</h2>
+
+
+<h5 align="left">• CSE student in Artificial Intelligence & Machine Learning<br>• Working with Python and Machine Learning<br>• Interested in contributing to real-world projects</h5>
 
 ---
 
 <!-- GitHub Stats with theme auto-switch using user preference -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShauryaPrakashVerma&show_icons=true&theme=dracula&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ShauryaPrakashVerma&show_icons=true&theme=default&hide_border=false" />
-  <img height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=ShauryaPrakashVerma&show_icons=true&theme=default&hide_border=false" />
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ShauryaPrakashVerma&layout=compact&theme=dracula&langs_count=5&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ShauryaPrakashVerma&layout=compact&theme=default&langs_count=5&hide_border=false" />
-  <img height="150" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShauryaPrakashVerma&layout=compact&theme=default&langs_count=5&hide_border=false" />
-</picture>
+
+<p align="center">
+  <a href="https://github.com/ShauryaPrakashVerma">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShauryaPrakashVerma&cache_seconds=7200&layout=compact&theme=cobalt&border_radius=10" alt="ShauryaPrakashVerma's GitHub Stats" />
+  </a>
+
+  
+  <img src="https://streak-stats.demolab.com/?user=ShauryaPrakashVerma&theme=cobalt&hide_border=true&cache_seconds=86400" alt="ShauryaPrakashVerma's GitHub Streak" width="49%" />
+</p>
 
 ---
 
@@ -34,11 +37,15 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" style="height:30px;" />
 </p>
 
+
 ---
+
 
 <!-- Contribution graph with theme switch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShauryaPrakashVerma/ShauryaPrakashVerma/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShauryaPrakashVerma/ShauryaPrakashVerma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShauryaPrakashVerma/ShauryaPrakashVerma/output/pacman-contribution-graph.svg">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 </picture>
