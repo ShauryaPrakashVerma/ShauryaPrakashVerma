@@ -10,20 +10,21 @@
 <h2 align="left">Hello World👋! My name is Shaurya.</h2>
 
 
-<h5 align="left">• CSE student in Artificial Intelligence & Machine Learning<br>
+<h4 align="left" font= "Helvetica">
+  • CSE student in Artificial Intelligence & Machine Learning<br>
   • Working with Python and Machine Learning<br>
-  • Interested in contributing to real-world projects</h5>
+  • Interested in contributing to real-world projects</h4>
 
-<br/>
+
 
 <!-- GitHub Stats with theme auto-switch using user preference -->
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShauryaPrakashVerma&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ShauryaPrakashVerma&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaPrakashVerma&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShauryaPrakashVerma&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaPrakashVerma&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=ShauryaPrakashVerma&theme=transparent&hide_border=true)
 >
   </a>
 
