@@ -21,14 +21,13 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShauryaPrakashVerma&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaPrakashVerma&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="left">
+  <a href="https://github.com/ShauryaPrakashVerma">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShauryaPrakashVerma&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
-
-  
-  <img src="https://streak-stats.demolab.com/?user=ShauryaPrakashVerma&theme=cobalt&hide_border=true&cache_seconds=86400" alt="ShauryaPrakashVerma's GitHub Streak" width="49%" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=ShauryaPrakashVerma&theme=transparent&hide_border=true&cache_seconds=86400" alt="ShauryaPrakashVerma's GitHub Streak" width="49%" />
 </p>
 
 
