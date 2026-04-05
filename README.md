@@ -26,9 +26,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShauryaPrakashVerma&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-<p align="left">
+<!-- <p align="left">
   <img src="https://streak-stats.demolab.com/?user=ShauryaPrakashVerma&theme=transparent&hide_border=true&cache_seconds=86400" alt="ShauryaPrakashVerma's GitHub Streak" width="49%" />
-</p>
+</p> -->
 
 
 
