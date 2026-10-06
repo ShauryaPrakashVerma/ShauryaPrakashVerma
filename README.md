@@ -7,13 +7,23 @@
 
 
 
-<h2 align="left">Hello World👋! My name is Shaurya.</h2>
+<!-- <h2 align="left">Hello World👋! My name is Shaurya.</h2> -->
 
+> **CSE STUDENT • AI/ML • PYTHON • GAME DEVELOPMENT**
 
-<h4 align="left" font= "Helvetica">
-  • CSE student in Artificial Intelligence & Machine Learning<br>
-  • Working with Python and Machine Learning<br>
-  • Interested in contributing to real-world projects</h4>
+<hr>
+
+<blockquote>
+  <sub>
+    <b>CLASS</b> → Computer Science • AI & Machine Learning<br>
+    <b>LOADOUT</b> → Python • AI/ML • Game Development<br>
+    <b>CURRENT MISSION</b> → Building real-world projects<br>
+  </sub>
+</blockquote>
+
+<hr>
+
+> *"Ah shit, here we code again."* 🟢
 
 
 <hr/>
