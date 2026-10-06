@@ -31,11 +31,14 @@
 
 <img width="300" alt="Github Stats" src="assets/github_stats_final.png" />
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ShauryaPrakashVerma">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShauryaPrakashVerma&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+</p> -->
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ShauryaPrakashVerma&theme=forest&hide_border=true&hide_title=true&border_radius=0&hide=stars%2Cissues%2Cfollowers)
+
 <!-- <p align="left">
   <img src="https://streak-stats.demolab.com/?user=ShauryaPrakashVerma&theme=transparent&hide_border=true&cache_seconds=86400" alt="ShauryaPrakashVerma's GitHub Streak" width="49%" />
 </p> -->
