@@ -37,7 +37,12 @@
   </a>
 </p> -->
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ShauryaPrakashVerma&theme=forest&hide_border=true&hide_title=true&border_radius=0&hide=stars%2Cissues%2Cfollowers)
+
+![ShauryaPrakashVerma's Stats](https://github-readme-stats.vercel.app/api?username=ShauryaPrakashVerma&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+
+![ShauryaPrakashVerma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShauryaPrakashVerma&theme=blue-green&hide_border=true)
+
+![ShauryaPrakashVerma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaPrakashVerma&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 <!-- <p align="left">
   <img src="https://streak-stats.demolab.com/?user=ShauryaPrakashVerma&theme=transparent&hide_border=true&cache_seconds=86400" alt="ShauryaPrakashVerma's GitHub Streak" width="49%" />
